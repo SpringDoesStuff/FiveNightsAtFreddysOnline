@@ -3,4 +3,4 @@
 
 
 
-# Using the animatronic game template on ue5 we will replicate its features and then use assets to make it truely fnaf 1
+# This project uses the animatronic game template found on the unreal engine marketplace
